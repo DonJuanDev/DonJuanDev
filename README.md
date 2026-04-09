@@ -11,7 +11,7 @@
 ### About Me
 
 <p>
-Software developer focused on building robust and scalable web solutions. Passionate about technology and solving complex problems, combining frontend and backend knowledge to create efficient and intuitive user experiences. Currently studying Computer Science at UNISUL to deepen my theoretical foundation.
+Software developer focused on building robust and scalable web solutions. Passionate about technology and solving complex problems, combining frontend and backend knowledge to create efficient and intuitive user experiences. Currently studying Computer Programming to deepen my theoretical foundation.
 </p>
 
 ### 📫 Reach me
