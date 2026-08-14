@@ -1,6 +1,6 @@
 ### Hello! I'm Juan Pereira!
 
-`Cursing Computer Programming` · `3+ Years of Experience`
+`Cursing Computer Programming` · `4+ Years of Experience`
 
 ### Skills and Tools
 
