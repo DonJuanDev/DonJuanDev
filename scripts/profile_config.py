@@ -41,10 +41,10 @@ ROWS = [
     ("sec", "Stack"),
     ("kv", "Lang", "C#, TypeScript, JavaScript"),
     ("kv", "Backend", ".NET, Docker, AWS, MongoDB"),
-    ("kv", "Tools", "Git, GitHub, Datadog, VS"),
+    ("kv", "Tools", "Git, ClaudeCode, Datadog, VS"),
     ("kv", "Also", "PHP, HTML/CSS, Node"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "CDM Central — ops platform"),
-    ("bul", "VisionMetrics, R5WF, UltraAgency"),
+    ("bul", "CDM Central"),
+    ("bul", "Xcord"),
 ]
